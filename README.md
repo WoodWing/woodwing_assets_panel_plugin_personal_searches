@@ -1,4 +1,4 @@
-# elvis_plugin_refresh_timer
+# woodwing_assets_panel_plugin_personal_searches
 
 ## Installation
 - Download or clone this plugin
