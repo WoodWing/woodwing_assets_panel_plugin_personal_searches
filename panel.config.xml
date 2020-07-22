@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<plugin>
+	<info>
+		<version>
+			<pluginVersion>1.4</pluginVersion>
+			<requiresAtLeast>6.1.0.0</requiresAtLeast>
+		</version>
+		<description>Personal searches panel</description>
+		<documentationUrl>https://github.com/WoodWing/woodwing_assets_panel_plugin_personal_searches</documentationUrl>
+	</info>
+	<panel>
+		<url>${pluginUrl}/index.html</url>
+
+		<iconUrl>${pluginUrl}/icon.svg</iconUrl>
+
+		<panelLocations>
+			<panelLocation id="mainRightPanel" order="100" />
+		</panelLocations>
+
+		<requiredRoles />
+
+		<messages>
+			<entries locale="en_US">
+				<entry key="title">Personal Searches</entry>
+				<entry key="button.tooltip">Save personal searches and refresh searches periodically</entry>
+			</entries>
+		</messages>
+
+	</panel>
+</plugin>
